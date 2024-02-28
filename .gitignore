@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+build/kotlin/sessions
+classAnalysis.bin
+.gradle
+.idea
+app/googleLive/release/output-metadata.json
+/local.properties
+/app/keystore.jks
+/app/debug/app-debug.apk
+/app/debug/output-metadata.json

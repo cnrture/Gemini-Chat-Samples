@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CanerativeAI-Chat</string>
+    <string name="send_message">Send Message</string>
+    <string name="add_image">Add Image</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="gen_ai">GenAi</string>
+    <string name="you">You</string>
+    <string name="gemini_icon">Gemini Icon</string>
+    <string name="text_from_text">Text From Text</string>
+    <string name="text_from_text_and_image">Text From Text and Image</string>
+    <string name="back">Back</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading</string>
+</resources>
