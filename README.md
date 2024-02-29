@@ -1,9 +1,15 @@
 # Gemini-Chat-Samples
 
 ## App Contents
+### Android
 | Text From Text | Text From Image |
 | --------- | ------ |
-|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/a5cde961-bc63-425c-83e7-5cf181fb9310"/>|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/d513108a-215c-49bf-b6df-ca1b66bdc457"/>|
+|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/a5cde961-bc63-425c-83e7-5cf181fb9310" height = "600px"/>|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/d513108a-215c-49bf-b6df-ca1b66bdc457" height = "600px"/>|
+
+### iOS
+| Text From Text | Text From Image |
+| --------- | ------ |
+|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/23ae56f1-35d5-4523-92a1-5f7500f31590" height = "600px"/>|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/dc5c8583-bda6-4a04-80da-436946ab8083" height = "600px"/>|
 
 ## Compose Multiplatform - Gemini AI KMP Library
 It was written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
