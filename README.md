@@ -1,6 +1,6 @@
 # Gemini-Chat-Samples
 
-- Compose Multiplatform projects are written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
+- ### Compose Multiplatform projects are written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
 
 ## App Contents
 ### Android
@@ -16,7 +16,7 @@
 </br>
 
 ## To try
-- Go to the link and get your key with "Create API Key". https://aistudio.google.com/app/apikey
+- ### Go to the link and get your key with "Create API Key". https://aistudio.google.com/app/apikey
 </br>
 
 <p align="center" width="100%">
@@ -25,7 +25,7 @@
 
 </br>
 
-- Locate the local.properties file in the project. Insert the gemini_api_key variable with the API key you created as follows and run the application.
+- ### Locate the local.properties file in the project. Insert the gemini_api_key variable with the API key you created as follows and run the application.
 </br>
 
 <p align="center" width="100%">
@@ -138,6 +138,6 @@
 </br>
 
 ## ToDo for Compose Multiplatform Projects
-- Desktop support
-- Web support
-- Wear support
+- ### Desktop support
+- ### Web support
+- ### Wear support
