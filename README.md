@@ -2,6 +2,8 @@
 
 - ### Compose Multiplatform projects are written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
 
+</br>
+
 ## App Contents
 ### Android
 | Text From Text | Text From Image |
@@ -31,6 +33,8 @@
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/555c82d5-3001-4053-9bec-bc165d81a3bf"> 
 </p>
+
+</br>
 
 ## Libraries
 
