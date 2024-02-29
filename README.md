@@ -1,5 +1,7 @@
 # Gemini-Chat-Samples
 
+- Compose Multiplatform projects are written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
+
 ## App Contents
 ### Android
 | Text From Text | Text From Image |
@@ -9,21 +11,26 @@
 ### iOS
 | Text From Text | Text From Image |
 | --------- | ------ |
-|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/23ae56f1-35d5-4523-92a1-5f7500f31590" height = "600px"/>|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/dc5c8583-bda6-4a04-80da-436946ab8083" height = "600px"/>|
+|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/23ae56f1-35d5-4523-92a1-5f7500f31590" height = "700px"/>|<img src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/dc5c8583-bda6-4a04-80da-436946ab8083" height = "700px"/>|
 
-## Compose Multiplatform - Gemini AI KMP Library
-It was written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
+</br>
 
-## Compose Multiplatform - Gemini AI Rest Api
-It was written with the new KMP Wizard template structure. [KMP Wizard](https://kmp.jetbrains.com/)
+## To try
+- Go to the link and get your key with "Create API Key". https://aistudio.google.com/app/apikey
+</br>
 
-## Compose - Gemini AI Library
-//
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/890cf3eb-b73d-4e98-b496-6f3697e60fb9"> 
+</p>
 
-## Compose - Gemini AI Rest Api
-//
+</br>
 
-<br>
+- Locate the local.properties file in the project. Insert the gemini_api_key variable with the API key you created as follows and run the application.
+</br>
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/cnrture/Gemini-Chat-Samples/assets/29903779/555c82d5-3001-4053-9bec-bc165d81a3bf"> 
+</p>
 
 ## Libraries
 
@@ -129,3 +136,8 @@ It was written with the new KMP Wizard template structure. [KMP Wizard](https://
 </table>
 
 </br>
+
+## ToDo for Compose Multiplatform Projects
+- Desktop support
+- Web support
+- Wear support
